@@ -1,0 +1,24 @@
+---
+title: "Learning Data Science through Open Source Contribution"
+format: revealjs
+---
+
+## Part 1: Lecture
+
+https://opensource.guide/how-to-contribute/
+
+## Why Contribute to Open Source
+
+## What it means to Contribute
+
+## Project Orientation
+
+## Finding a Project
+
+## How to Contribute
+
+## Post-Contribution
+
+## Part 2: Lab
+
+https://datasciencebox.org/course-materials/lab-instructions/lab-14/lab-14-collaborating-on-github.html
