@@ -9,7 +9,7 @@ output-file: "index"
 
 # In 2 Parts:
 
-First, a short lecture about open source contributions \
+First, a short lecture about open source contributions\
 
 Second, a hands-on time to try what you've just learned.
 
@@ -77,7 +77,7 @@ A project also has documentation such as
 
 -   ***CODE_OF_CONDUCT*****:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment
 
-## Project Discussion 
+## Project Discussion
 
 -   **Issue tracker:** Where people discuss issues related to the project
 
@@ -123,11 +123,11 @@ Get ideas from these resources...
 
 **Give context.** Help others get quickly up to speed.
 
-> 😇 *\"X doesn\'t happen when I do Y\"*
+> 😇 *"X doesn't happen when I do Y"*
 >
-> 😢 *\"X is broken! Please fix it.\"*
+> 😢 *"X is broken! Please fix it."*
 
-**Do your homework beforehand.** It\'s OK not to know things, but show that you tried.
+**Do your homework beforehand.** It's OK not to know things, but show that you tried.
 
 **Keep all communication public.**
 
@@ -149,12 +149,9 @@ You should usually open a pull request in the following situations:
 
 -   Submit trivial fixes (for example, a typo, a broken link or an obvious error)
 
--   Start work on a contribution that was already asked for, or that you\'ve already discussed, in an issue
+-   Start work on a contribution that was already asked for, or that you've already discussed, in an issue
 
 # Post-Contribution
-
-Celebrate! 🎉 \
-\
 
 😢...it's possible no one responds
 
@@ -165,3 +162,9 @@ Celebrate! 🎉 \
 # Start here! ▶️
 
 <https://github.com/firstcontributions/first-contributions>
+
+# You did it 🎉
+
+[Provide workshop feedback](https://uarizona.co1.qualtrics.com/jfe/form/SV_8jMFQ9sfKmKqBym)
+
+Learn more at [ResBaz AZ 2023](https://researchbazaar.arizona.edu/resbaz/Arizona2023/) from "*Collaborating on code with GitHub*"
